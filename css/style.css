@@ -514,7 +514,7 @@ header .fa-bars{
     padding: 1rem 0;
 }
 
-.footer .credit span{
+.footer .credit a{
     color: var(--pink);
 }
 
